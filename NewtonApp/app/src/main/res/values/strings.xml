@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">NewtonApp</string>
-    <string name="base_url">https://api.thingspeak.com/channels/250820/</string>
-    <string name="api_key">4OOLWVW1LMHBUHA7</string>
+    <string name="base_url">https://api.thingspeak.com/channels/XXXXXX/</string>
+    <string name="api_key">apikey</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
